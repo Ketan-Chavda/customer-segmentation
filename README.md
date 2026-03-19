@@ -208,9 +208,9 @@ jupyter>=1.0.0
 ## 👤 Author
 
 **[Your Name]**
-- LinkedIn: [your-linkedin-url]
-- GitHub: [your-github-url]
-- Email: [your-email]
+- LinkedIn: www.linkedin.com/in/ketanchavda98
+- GitHub: https://github.com/Ketan-Chavda
+- Email: ketanchavda210798@gmail.com
 
 ---
 
